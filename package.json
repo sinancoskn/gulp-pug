@@ -1,0 +1,36 @@
+{
+  "name": "gulp-pug",
+  "version": "1.0.0",
+  "description": "Gulp and pug starter",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp"
+  },
+  "author": "snncoskn@gmail.com",
+  "devDependencies": {
+		"babel-core": "^6.26.3",
+		"babel-preset-env": "^1.7.0",
+		"babel-preset-es2015-without-strict": "0.0.4",
+		"gulp": "^4.0.0",
+		"gulp-babel": "^8.0.0"
+	},
+	"dependencies": {
+		"@babel/core": "^7.2.2",
+		"@babel/preset-env": "^7.3.1",
+		"babel-preset-minify": "^0.5.0",
+		"browser-sync": "^2.26.3",
+		"gulp-autoprefixer": "^6.0.0",
+		"gulp-connect": "^5.7.0",
+		"gulp-minify-css": "^1.2.4",
+		"gulp-pug": "^4.0.1",
+		"gulp-rename": "^1.4.0",
+		"gulp-sass": "^4.0.2",
+		"gulp-sourcemaps": "^2.6.4",
+		"gulp-uglify": "^3.0.1",
+		"jade-bootstrap": "^1.0.14",
+		"node-sass": "^4.12.0",
+		"pump": "^3.0.0"
+	},
+  "license": "ISC"
+}

@@ -1,0 +1,10 @@
+header.header
+    .container
+        .header__wrapper
+            .header__left
+                a(href="/")
+            .header__right
+                ul.desktop
+                    each i,y in [{name:"about",link:"./"}]
+                        li
+                            a(href=i.link class= y==menu ? "active" : "" )=i.name

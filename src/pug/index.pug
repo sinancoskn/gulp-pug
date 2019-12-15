@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+html(lang="en")
+    head
+        - var title = "Pug-Gulp Starter | Home"
+        - var desc = "Home Page"
+        include ./components/head.pug
+    body.wow.fadeIn(data-wow-duration="0.6s" data-wow-delay="0.2s")
+        - var menu = 0
+        include ./components/header.pug
+        main.about
+            .container
+                h1 Index Page
+        include ./components/footer.pug

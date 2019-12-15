@@ -1,0 +1,5 @@
+"use strict";
+
+var app = {};
+console.log("HEllo");
+//# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImFwcC5qcyJdLCJuYW1lcyI6WyJhcHAiLCJjb25zb2xlIiwibG9nIl0sIm1hcHBpbmdzIjoiQUFBQTs7QUFFQSxJQUFJQSxHQUFHLEdBQUcsRUFBVjtBQUVBQyxPQUFPLENBQUNDLEdBQVIsQ0FBWSxPQUFaIiwic291cmNlc0NvbnRlbnQiOlsiXCJ1c2Ugc3RyaWN0XCI7XHJcblxyXG52YXIgYXBwID0ge307XHJcblxyXG5jb25zb2xlLmxvZyhcIkhFbGxvXCIpO1xyXG4iXSwiZmlsZSI6ImFwcC5qcyJ9

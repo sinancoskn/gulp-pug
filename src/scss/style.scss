@@ -1,0 +1,31 @@
+/* Components, Utils and Pages imports */
+@import "./utils/imports";
+@import "./components/imports";
+@import "./pages/imports";
+
+html,
+body {
+}
+body {
+	font-family: "Montserrat", sans-serif;
+	line-height: 1.2;
+	-webkit-font-smoothing: antialiased;
+	position: relative;
+	cursor: default;
+	background: #fff;
+	-webkit-font-feature-settings: "lnum";
+	-moz-font-feature-settings: "lnum";
+	font-feature-settings: "lnum";
+	overflow-x: hidden;
+	height: 100%;
+	min-height: calc(100vh - 68px);
+	padding-bottom: 68px;
+	.container {
+		max-width: 1280px;
+		margin: 0 auto;
+	}
+}
+
+main {
+
+}
